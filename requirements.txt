@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+graphdatascience
+python-dotenv
+ipywidgets
