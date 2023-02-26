@@ -7,7 +7,7 @@ This repo contains notebooks demonstrating and visualising graph data science an
 
 This demo compares classification using a tabular dataset vs using a graph dataset. Using Neo4j and the Graph Data Science libraries, we show that modelling the data using a graph allows us to achieve better classification accuracy!
 
-The problem studied is classifying a dataset of academic papers into categories using the [Cora dataset](https://paperswithcode.com/dataset/cora).
+The problem studied is classifying a dataset of academic papers into categories using the [Cora dataset](https://paperswithcode.com/dataset/cora). Read the full tutorial here: ["Comparing ML using tabular vs graph data models with the Cora dataset"](https://andrewwango.github.io/neo4j-demos/rendered/cora/demo.html).
 
 <p align="center" width="100%">
     <img src="cora/assets/cora_overview.png" width="70%"/>

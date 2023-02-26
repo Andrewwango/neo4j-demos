@@ -4,7 +4,7 @@
     "href": "cora/demo.html",
     "title": "The Graph Advantage",
     "section": "",
-    "text": "This demo compares classification using a tabular dataset vs using a graph dataset. Using Neo4j and the Graph Data Science libraries, we show that modelling the data using a graph allows us to achieve better classification accuracy!\nLet’s get started by importing Python libraries:"
+    "text": "This demo compares classification using a tabular dataset vs using a graph dataset. Using Neo4j and the Graph Data Science libraries, we show that modelling the data using a graph allows us to achieve better classification accuracy!\nFor the full notebook and other demos, see the repo.\nLet’s get started by importing Python libraries:"
   },
   {
     "objectID": "cora/demo.html#problem-statement",
